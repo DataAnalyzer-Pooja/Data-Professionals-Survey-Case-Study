@@ -19,7 +19,7 @@ Following questions needed to be answered by this analysis.
 # Deliverables
 The project includes the following:-
 - Excel project [dataset](https://github.com/DataAnalyzer-Pooja/Data-Professionals-Survey-Case-Study/blob/main/Survey_DataSet.xlsx). 
-- Survey analysis [POWER BI dashboard](https://github.com/DataAnalyzer-Pooja/Data-Professionals-Survey-Case-Study/blob/main/Survey_Analysis_Dashboard.pbix). 
+- Survey analysis [POWER BI dashboard](https://www.novypro.com/project/poojaverma). 
 
 # Process
 - Removed blank columns.
