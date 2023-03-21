@@ -35,4 +35,5 @@ The project includes the following:-
 - Of the 630 participants, a significant proportion of 73 are from India, with a mean age of 27. Data shows that data professionals in India are not fairly satisfied     with their current salary compensation. Python is the most popular programming language among the survey participants.
 
 I hope this project helps you understand the bike sales distribution. If you have any questions or suggestions, please don't hesitate to reach out.  
-[LinkedIn](https://www.linkedin.com/in/contact-analyzer-pooja-verma)   [NovyPro](https://www.novypro.com/profile_projects/poojaverma)
+- [LinkedIn](https://www.linkedin.com/in/contact-analyzer-pooja-verma)  
+- [NovyPro](https://www.novypro.com/profile_projects/poojaverma)
